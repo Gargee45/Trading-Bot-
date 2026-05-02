@@ -1,0 +1,6 @@
+{
+  "name": "NeonTrade Binance Bot",
+  "description": "A high-performance trading interface for Binance Futures Testnet with real-time logging and advanced order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
